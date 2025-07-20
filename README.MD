@@ -47,9 +47,17 @@ This project demonstrates the setup and automation of a web server on an AWS EC2
    chmod +x setup-web-server.sh
 
 ## Screenshots
-
+##EC2 Dashboard
 ![EC2 Dashboard](screenshots/AWS%20EC2%20Dashboard.png)
+
+## SSH Connection
 ![SSH Connection](screenshots/SSH%20Connection.png)
+
+## Uploading Script to EC2 Through scp
 ![Uploading Script to EC2 Through scp](screenshots/Uploading%20and%20Executing%20Script%20SSH.png)
+
+## Running Script
 ![Running Script](screenshots/Running%20the%20Bash%20Script%20on%20EC2.png)
+
+## Accecing The Static Webpage through Public IP
 ![Static Webpage](screenshots/Accessing%20the%20Static%20Webpage%20in%20Browser.png)
