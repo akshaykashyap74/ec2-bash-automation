@@ -1,4 +1,4 @@
-# Project 1: EC2 Setup + Bash Automation (Linux + Bash + Networking)
+# EC2 Setup + Bash Automation (Linux + Bash + Networking)
 
 ## Overview
 This project demonstrates the setup and automation of a web server on an AWS EC2 instance using Linux, Bash scripting, and basic networking concepts. The goal was to launch an EC2 instance, connect securely via SSH, automate the installation of a web server, serve a static webpage, and implement log rotation.
