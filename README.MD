@@ -47,7 +47,7 @@ This project demonstrates the setup and automation of a web server on an AWS EC2
    chmod +x setup-web-server.sh
 
 ## Screenshots
-##EC2 Dashboard
+## EC2 Dashboard
 ![EC2 Dashboard](screenshots/AWS%20EC2%20Dashboard.png)
 
 ## SSH Connection
